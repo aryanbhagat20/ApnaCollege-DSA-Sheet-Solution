@@ -1,4 +1,4 @@
-//Chocolate Distribution Problem - Amazon
+//Chocolate Distribution Problem - Amazon.
 //Solve it using Sliding Window Technique.
 import java.util.*;
 

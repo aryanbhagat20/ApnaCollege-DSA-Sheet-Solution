@@ -1,4 +1,4 @@
-//Reverse the Array - (Infosys, Moonfrog Labs)
+//Reverse the Array - (Infosys, Moonfrog Labs).
 import java.util.*;
 
 public class Arrays_Easy2 {

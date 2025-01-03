@@ -1,4 +1,4 @@
-//Contains Duplicate - Amazon
+//Contains Duplicate - Amazon.
 import java.util.*;
 
 public class Arrays_Easy4 {

@@ -1,4 +1,4 @@
-//Maximum-SubArray - (Microsoft + Facebook)
+//Maximum-SubArray - (Microsoft + Facebook).
 /*The idea of Kadane’s algorithm is to traverse over the array from left to right and for each element,
 find the maximum sum among all subarrays ending at that element.*/
 //Solution Preview : https://www.geeksforgeeks.org/3d-kadanes-algorithm/?ref=asr1

@@ -1,4 +1,4 @@
-//Maximum and Minimum Element in an Array - (Amazon, Cisco, Hike, Microsoft, Snapdeal, Google, Adobe)
+//Maximum and Minimum Element in an Array - (Amazon, Cisco, Hike, Microsoft, Snapdeal, Google, Adobe).
 import java.util.*;
 
 public class Arrays_Easy1 {
