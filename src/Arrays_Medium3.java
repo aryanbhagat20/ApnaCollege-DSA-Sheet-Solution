@@ -1,4 +1,4 @@
-//Repeat and Missing Number Array - (Amazon)
+//Repeat and Missing Number Array - (Amazon).
 //leetcode Problem - 645 and interviewbit.
 import java.util.*;
 

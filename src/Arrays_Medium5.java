@@ -1,4 +1,4 @@
-//Trapping Rain Water - Samsung Interview Question
+//Trapping Rain Water - Samsung Interview Question.
 //leetcode 42
 import java.util.*;
 

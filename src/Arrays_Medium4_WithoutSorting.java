@@ -1,4 +1,4 @@
-//Kth-Largest Element in an Array -( Amazon + Microsoft + Walmart + Adobe)
+//Kth-Largest Element in an Array -( Amazon + Microsoft + Walmart + Adobe).
 //leetcode 215
 import java.util.*;
 

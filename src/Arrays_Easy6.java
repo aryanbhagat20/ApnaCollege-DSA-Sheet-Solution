@@ -1,4 +1,5 @@
 //Search in Rotated Sorted Array - (Microsoft, Google, Adobe, Amazon, Flipkart, Hike, MakeMyTrip, Paytm )
+//leetcode 33 similar
 
 public class Arrays_Easy6 {
     public static void main(String[] args) {

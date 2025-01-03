@@ -1,4 +1,4 @@
-//Next Permutation - (Uber + Goldman Sachs + Adobe Interview)
+//Next Permutation - (Uber + Goldman Sachs + Adobe Interview).
 //Leetcode Problem - 31
 import java.util.*;
 
