@@ -1,7 +1,7 @@
 import java.util.*;
 //Trapping Rain Water - Samsung Interview Question.
 //leetcode 42
-//Two Pointer Approach - Space : O(1) and Time : O(n)
+//Two Pointer Approach - Space : O(1) and Time : O(n) (Best Approach)
 
 public interface Arrays_Medium5_Approach2 {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 import java.util.*;
 //Trapping Rain Water - Samsung Interview Question.
 //leetcode 42
-//Prefix max and suffix max approach - Space : O(n) and Time : O(n)
+//Prefix max and suffix max approach - Space : O(n) and Time : O(n) (Naive Approach)
 
 public class Arrays_Medium5_Approach1 {
 
