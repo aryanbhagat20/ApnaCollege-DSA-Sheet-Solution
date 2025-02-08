@@ -1,29 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b306f2f-749d-4de9-a4e7-ef7983de22bf" name="Changes" comment="" />
+    <list default="true" id="6b306f2f-749d-4de9-a4e7-ef7983de22bf" name="Changes" comment="2nd Jan 2025">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arryas_Medium6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arryas_Medium6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2r8Gz0G09Ppo3UcsQvJQIu1tf3M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrays_Easy1.executor": "Run",
+    "Application.Arrays_Medium5_Approach1.executor": "Run",
+    "Application.Arrays_Medium5_Approach2.executor": "Run",
+    "Application.Arryas_Medium6.executor": "Run",
+    "Application.removeWhitespace.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Local User/Desktop/Coding Space/DSA Sheet Solution/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Arryas_Medium6">
     <configuration name="Arrays_Easy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_Easy1" />
       <module name="DSA Sheet Solution" />
@@ -31,8 +58,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Arrays_Medium5_Approach1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_Medium5_Approach1" />
+      <module name="DSA Sheet Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrays_Medium5_Approach2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_Medium5_Approach2" />
+      <module name="DSA Sheet Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arryas_Medium6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arryas_Medium6" />
+      <module name="DSA Sheet Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeWhitespace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeWhitespace" />
+      <module name="DSA Sheet Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arryas_Medium6" />
+        <item itemvalue="Application.Arrays_Medium5_Approach2" />
+        <item itemvalue="Application.Arrays_Medium5_Approach1" />
+        <item itemvalue="Application.removeWhitespace" />
         <item itemvalue="Application.Arrays_Easy1" />
       </list>
     </recent_temporary>
@@ -46,7 +105,85 @@
       <option name="presentableId" value="Default" />
       <updated>1735933546662</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit for this Repo">
+      <option name="closed" value="true" />
+      <created>1735933767897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735933767897</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit for this Repo">
+      <option name="closed" value="true" />
+      <created>1735936024440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735936024440</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1st Jan 2025">
+      <option name="closed" value="true" />
+      <created>1735936866901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735936866901</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2nd Jan 2025">
+      <option name="closed" value="true" />
+      <created>1735936954891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735936954891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2nd Jan 2025">
+      <option name="closed" value="true" />
+      <created>1739024837052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739024837053</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2nd Jan 2025">
+      <option name="closed" value="true" />
+      <created>1739028362745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739028362745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit for this Repo" />
+    <MESSAGE value="1st Jan 2025" />
+    <MESSAGE value="2nd Jan 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Jan 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
