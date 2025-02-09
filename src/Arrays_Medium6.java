@@ -1,9 +1,8 @@
-import java.util.*;
 //Product of Array Except Self - Microsoft + Facebook
 //Leetcode - 238
 //Prefix and Suffix Arrays approach - Space : O(n) and Time : O(n)
 
-public class Arryas_Medium6 {
+public class Arrays_Medium6 {
     public static void main(String[] args) {
         int nums[] = {1,2,3,4} ;
         int n = nums.length;
