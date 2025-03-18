@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b306f2f-749d-4de9-a4e7-ef7983de22bf" name="Changes" comment="8th Feb 2025">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium7.java" afterDir="false" />
+    <list default="true" id="6b306f2f-749d-4de9-a4e7-ef7983de22bf" name="Changes" comment="9th Feb 2025">
+      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings_Easy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings_Easy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings_Easy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings_Easy4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings_Easy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings_Easy6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arryas_Medium6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Medium6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +47,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arrays_Easy1.executor": "Run",
+    "Application.Arrays_Medium12.executor": "Run",
     "Application.Arrays_Medium5_Approach1.executor": "Run",
     "Application.Arrays_Medium5_Approach2.executor": "Run",
     "Application.Arrays_Medium7.executor": "Run",
+    "Application.Arrays_Medium8.executor": "Run",
     "Application.Arryas_Medium6.executor": "Run",
+    "Application.Strings_Easy1.executor": "Run",
+    "Application.Strings_Easy2.executor": "Run",
+    "Application.Strings_Easy3.executor": "Run",
+    "Application.Strings_Easy4.executor": "Run",
+    "Application.Strings_Easy6.executor": "Run",
     "Application.removeWhitespace.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -51,37 +66,37 @@
     "onboarding.tips.debug.path": "C:/Users/Local User/Desktop/Coding Space/DSA Sheet Solution/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays_Medium7">
-    <configuration name="Arrays_Medium5_Approach1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_Medium5_Approach1" />
+  <component name="RunManager" selected="Application.Strings_Easy6">
+    <configuration name="Strings_Easy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_Easy1" />
       <module name="DSA Sheet Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_Medium5_Approach2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_Medium5_Approach2" />
+    <configuration name="Strings_Easy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_Easy2" />
       <module name="DSA Sheet Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_Medium6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_Medium6" />
+    <configuration name="Strings_Easy3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_Easy3" />
       <module name="DSA Sheet Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays_Medium7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_Medium7" />
+    <configuration name="Strings_Easy4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_Easy4" />
       <module name="DSA Sheet Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeWhitespace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeWhitespace" />
+    <configuration name="Strings_Easy6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_Easy6" />
       <module name="DSA Sheet Solution" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arrays_Medium7" />
-        <item itemvalue="Application.Arrays_Medium6" />
-        <item itemvalue="Application.Arrays_Medium5_Approach2" />
-        <item itemvalue="Application.Arrays_Medium5_Approach1" />
-        <item itemvalue="Application.removeWhitespace" />
+        <item itemvalue="Application.Strings_Easy6" />
+        <item itemvalue="Application.Strings_Easy4" />
+        <item itemvalue="Application.Strings_Easy3" />
+        <item itemvalue="Application.Strings_Easy2" />
+        <item itemvalue="Application.Strings_Easy1" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739036412472</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="9th Feb 2025">
+      <option name="closed" value="true" />
+      <created>1739102749135</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739102749135</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,17 +216,7 @@
     <MESSAGE value="1st Jan 2025" />
     <MESSAGE value="2nd Jan 2025" />
     <MESSAGE value="8th Feb 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="8th Feb 2025" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="9th Feb 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th Feb 2025" />
   </component>
 </project>
