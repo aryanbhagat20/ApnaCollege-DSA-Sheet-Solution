@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b306f2f-749d-4de9-a4e7-ef7983de22bf" name="Changes" comment="9th Feb 2025">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_Medium9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings_Easy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings_Easy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings_Easy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings_Easy4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings_Easy5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings_Easy6.java" afterDir="false" />
+    <list default="true" id="6b306f2f-749d-4de9-a4e7-ef7983de22bf" name="Changes" comment="19th March 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings_Easy7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings_Easy7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +49,7 @@
     "Application.Strings_Easy3.executor": "Run",
     "Application.Strings_Easy4.executor": "Run",
     "Application.Strings_Easy6.executor": "Run",
+    "Application.Strings_Easy7.executor": "Run",
     "Application.removeWhitespace.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -66,14 +58,7 @@
     "onboarding.tips.debug.path": "C:/Users/Local User/Desktop/Coding Space/DSA Sheet Solution/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Strings_Easy6">
-    <configuration name="Strings_Easy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings_Easy1" />
-      <module name="DSA Sheet Solution" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Strings_Easy7">
     <configuration name="Strings_Easy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings_Easy2" />
       <module name="DSA Sheet Solution" />
@@ -102,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Strings_Easy7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings_Easy7" />
+      <module name="DSA Sheet Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings_Easy7" />
         <item itemvalue="Application.Strings_Easy6" />
         <item itemvalue="Application.Strings_Easy4" />
         <item itemvalue="Application.Strings_Easy3" />
         <item itemvalue="Application.Strings_Easy2" />
-        <item itemvalue="Application.Strings_Easy1" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739102749135</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="19th March 2025">
+      <option name="closed" value="true" />
+      <created>1742326905947</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742326905947</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +217,7 @@
     <MESSAGE value="2nd Jan 2025" />
     <MESSAGE value="8th Feb 2025" />
     <MESSAGE value="9th Feb 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th Feb 2025" />
+    <MESSAGE value="19th March 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th March 2025" />
   </component>
 </project>
